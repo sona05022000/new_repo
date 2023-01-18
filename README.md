@@ -1,2 +1,2 @@
 # new_repo
-new repo
+new repo for git commands demonstration
